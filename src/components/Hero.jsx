@@ -38,7 +38,7 @@ export default function Hero() {
           className="text-4xl md:text-6xl lg:text-7xl font-bold tracking-tight mb-4"
           variants={itemVariants}
         >
-          Soluções em Drenagem
+          Construcao de qualidade
         </motion.h1>
         <motion.p
           className="max-w-3xl mx-auto text-lg md:text-xl text-blue-100 mb-8"
